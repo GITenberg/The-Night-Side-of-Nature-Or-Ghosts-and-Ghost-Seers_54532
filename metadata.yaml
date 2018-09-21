@@ -1,5 +1,8 @@
 _repo: The-Night-Side-of-Nature-Or-Ghosts-and-Ghost-Seers_54532
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54532-h/images/cover.jpg
 creator:
   author:
     agent_name: Crowe, Catherine
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '40044'
     url: http://www.gutenberg.org/2009/agents/40044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54532#The-Night-Side-of-Nature-Or-Ghosts-and-Ghost-Seers
 gutenberg_issued: '2017-04-10'
 gutenberg_type: Text
 identifiers:
